@@ -3,7 +3,7 @@
     flex-wrap: wrap;
 }
 
-.box {
+.box1 {
     flex: 1;
     height: 100px;
     background-color: #ff0000;
@@ -27,3 +27,8 @@
     background-color: #ffff00;
 }
 
+.box5 {
+    flex: 1;
+    height: 100px;
+    background-color: #ff00ff;
+}
